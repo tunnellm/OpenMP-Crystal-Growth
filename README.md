@@ -8,5 +8,7 @@ Compile as: g++ main.cpp functions.cpp -o out.o
 
 Run as:
 ./out.o
+
 or
+
 ./out.o numThreads dimensions structureSize initialFloaters g_max seedingPercentChance
