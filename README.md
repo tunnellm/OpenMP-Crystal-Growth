@@ -12,3 +12,5 @@ Run as:
 or
 
 ./out.o numThreads dimensions structureSize initialFloaters g_max seedingPercentChance
+
+e.g. ./out 16 3 100 1000 10000 20
